@@ -1,0 +1,6 @@
+{
+  "name": "Techy Sumit - Tech & AI Resource Hub",
+  "description": "Tech, AI & Apps explained simply. Direct resource hub for Techy Sumit Instagram Reels featuring tools, prompts, download links, and setup guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
